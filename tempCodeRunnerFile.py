@@ -1,0 +1,1 @@
+      MainWindow.setStyleSheet("background-color: pink")
